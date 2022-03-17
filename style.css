@@ -1,0 +1,35 @@
+.logo {
+  max-height: 24px;
+}
+.first {
+  background-color: #1f2937;
+  display: flex;
+  flex-direction: column;
+}
+
+.headerlist {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  margin-left: auto;
+}
+
+.herotext {
+  color: #f9faf8;
+  font-size: 48px;
+}
+
+.herosecondarytext,
+.headerlist {
+  font-size: 18px;
+  color: #e5e7eb;
+}
+
+.signupbutton {
+  color: #3882f6;
+}
+
+.mainimage {
+  width: 200px;
+}
